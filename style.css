@@ -1,0 +1,9 @@
+li {
+    list-style:none;
+}
+
+.header-nav-list-item {
+float:left;
+margin-right:20px;
+border:1px solid black;
+}
